@@ -1,2 +1,0 @@
-Tämä taas on sellainen uusi tiedosto!
-Tiedosto "tiedosto1.txt" kansiossa "kansio3".
