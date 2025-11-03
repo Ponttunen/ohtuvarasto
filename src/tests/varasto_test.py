@@ -93,4 +93,4 @@ class TestVarasto(unittest.TestCase):
         self.assertAlmostEqual(self.varasto.paljonko_mahtuu(), 10)
 
     def test_konstruktori_asettaa_ja_string(self):
-        self.assertEqual(str(self.varasto), "Saldo = 0, vielä tilaa 10")
+        self.assertEqual(str(self.varasto), "saldo = 0, vielä tilaa 10")
