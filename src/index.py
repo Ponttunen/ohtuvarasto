@@ -11,7 +11,7 @@ def main():
 
 
 def get_set_prints(mehua, olutta):
-    print("Luonnin jälkeen: Olen oomeena, olen oomeena, olen pyöreaääääaä ooomeeeeennnnnaaa!!!")
+    print("Luonnin jälkeen: ")
     print(f"Mehuvarasto: {mehua}")
     print(f"Olutvarasto: {olutta}")
 
